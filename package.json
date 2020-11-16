@@ -1,0 +1,27 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "description": "EMetro library core",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMetro/core.git"
+  },
+  "keywords": [
+    "EMetro",
+    "EMetro core",
+    "Core",
+    "UI Library",
+    "UI Kit"
+  ],
+  "author": "Morteza Jamali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EMetro/core/issues"
+  },
+  "homepage": "https://github.com/EMetro/core#readme",
+  "dependencies": {
+    "@types/jquery": "^3.5.4",
+    "jquery": "^3.5.1"
+  }
+}
