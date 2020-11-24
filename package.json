@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@emetro/core",
   "version": "0.0.1",
   "description": "EMetro library core",
   "scripts": {},
